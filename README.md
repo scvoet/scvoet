@@ -18,8 +18,9 @@ email = 'scvoet@pm.me'
 [bio]
 sex = 'male'
 like = 'male'
+gpg = '1826 DCF1 5F87 54CC CE69  F25D FE2D 63C4 D816 9C92'
 categories = [
-  'students',
+  'student',
   'coder',
 ]
 interests = [
@@ -29,6 +30,5 @@ interests = [
 programming-languages = [
   'php',
   'go',
-  'dart',
 ]
 ```
