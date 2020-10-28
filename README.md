@@ -6,7 +6,7 @@
 </p>
 
 ```vim
-> vi info.tomal
+> vi info.toml
 ```
 
 ```toml
