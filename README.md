@@ -13,7 +13,7 @@
 [personal]
 name = 'Scvoet'
 city = 'Zhejiang, China'
-email = 'scvoet@pm.me'
+email = 'scvoet@gmail.com'
 
 [bio]
 sex = 'male'
