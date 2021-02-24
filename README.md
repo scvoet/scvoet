@@ -11,7 +11,8 @@
 
 ```toml
 [personal]
-name = 'Scvoet'
+name = 'Percy'
+username = 'scvoet'
 city = 'Zhejiang, China'
 email = 'scvoet@gmail.com'
 
@@ -26,9 +27,10 @@ categories = [
 interests = [
   'create',
   'open-source',
+  'movement',
 ]
 programming-languages = [
-  'php',
   'go',
+  'php',
 ]
 ```
